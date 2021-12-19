@@ -1,4 +1,4 @@
-# Sensors-Classification
+# Pass/Fail Classification
 
 ### Problem statement: -
 -	Independent variables that are collected form sensors as signals. In these variables, there are some of noisy information, some of irrelevant information and some useful information. as these are signal that are taken from sensors. 
