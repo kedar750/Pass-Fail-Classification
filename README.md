@@ -2,7 +2,7 @@
 
 ### Problem statement: -
 -	Independent variables that are collected form sensors as signals. In these variables, there are some of noisy information, some of irrelevant information and some useful information. as these are signal that are taken from sensors. 
--	If we consider each type of signal as a feature, then feature selection may be applied to identify the most relevant signals. The Process Engineers may then use these signals to determine key factors contributing to yield excursions downstream in the process. This will enable an increase in process throughput, decreased time to learning and reduce the per unit production costs. These signals can be used as features to predict the yield type. And by analysing and trying out different combinations of features, essential signals that are impacting the yield type can be identified.
+-	Consider each type of signal as a feature, then feature selection may be applied to identify the most relevant signals. The Process Engineers may then use these signals to determine key factors contributing to yield excursions downstream in the process. This will enable an increase in process throughput, decreased time to learning and reduce the per unit production costs. These signals can be used as features to predict the yield type. And by analysing and trying out different combinations of features, essential signals that are impacting the yield type can be identified.
 -	Data contains 592 variables that includes sensors, output and time.
 
 
@@ -49,5 +49,5 @@ Packages: Pandas, NumPy, sklearn, Matplotlib, scipy, seaborn, imblearn and count
 
 ### Conclusion & Improvisation: -
 - Finally, Classes are predicted accurately
-- we can tune model and reduce chances of overfitting.
-- we can check with  another models.
+- Tune model and reduce chances of overfitting.
+- Check with  another models.
